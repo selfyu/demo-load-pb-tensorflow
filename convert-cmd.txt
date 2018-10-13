@@ -1,0 +1,1 @@
+/opt/intel/computer_vision_sdk/deployment_tools/model_optimizer/mo_tf.py --input_model ./frozen_east_text_detection.pb --input_shape [1,512,512,3]
